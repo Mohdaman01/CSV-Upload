@@ -1,5 +1,5 @@
 {
-  "name": "csv file upload",
+  "name": "csv_file_upload",
   "version": "1.0.0",
   "description": "you can upload csv format file to database , view in tabular form and also delete it from database",
   "main": "index.js",
