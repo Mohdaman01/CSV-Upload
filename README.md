@@ -1,5 +1,5 @@
 # CSV Upload
-This web app allows users to upload CSV format files to Database, view files in tabuler format on the app and delete the files form the Database.
+This web app allows users to upload CSV format files to Database, view files in tabuler format on the app and delete the files from the Database.
 
 This application is built with Node.js and Express.
 
