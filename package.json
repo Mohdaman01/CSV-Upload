@@ -1,7 +1,7 @@
 {
   "name": "csv file upload",
   "version": "1.0.0",
-  "description": "you can upload csv format file in database , view in tabular form and also delete it from database",
+  "description": "you can upload csv format file to database , view in tabular form and also delete it from database",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -23,10 +23,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": " "
-  },
-  "bugs": {
-    "url": " "
-  },
-  "homepage": " "
+    "url": "https://github.com/Mohdaman01/CSV-Upload"
+  }
 }
