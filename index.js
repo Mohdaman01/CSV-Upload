@@ -3,6 +3,9 @@ const express = require('express');
 const port = 3000;
 const app = express();
 
+const dotenv = require('dotenv');
+dotenv.config();
+
 const expressLayouts = require('express-ejs-layouts');
 const bodyParser = require('body-parser');
 const csv = require('csv-parser');

@@ -2,7 +2,8 @@
 const mongoose = require("mongoose");
 
 //connecting to Database
-mongoose.connect('mongodb://127.0.0.1:/CSV_FILE_DATA');
+mongoose.connect(process.env.MONGODB_URL);
+
 
 //setting it to db
 const db = mongoose.connection;
